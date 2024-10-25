@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+プログラミングするよりコマンドを送る方が好きなのです。
+あとは私の周りにプログラミング方面優秀な人が多いので差別化のためにプログラミングにはリソースを振っていません。
+
+
 <!--
 **Kirichansama/Kirichansama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
